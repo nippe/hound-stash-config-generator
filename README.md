@@ -1,6 +1,6 @@
 # Hound Stash Config Generator
 
-Have a [Atlassian Stash](https://www.atlassian.com/software/bitbucket/server) server at work and think the search ain't that awesome? Heard of [Etsy's Hound](https://github.com/etsy/hound) project?
+Have an [Atlassian Stash](https://www.atlassian.com/software/bitbucket/server) server at work and think the search ain't that awesome? Heard of [Etsy's Hound](https://github.com/etsy/hound) project?
 
 This tool connects to the Stash/Bitbucket Servers REST api and extracts projects and repositories and dumps the info down in a hound config.json file.
 
