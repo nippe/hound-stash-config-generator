@@ -1,5 +1,5 @@
 {
-  "name": "hound-stash-config-generator",
+  "name": "hound-stash-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
